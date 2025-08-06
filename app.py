@@ -47,7 +47,7 @@ with st.sidebar:
         🎲 Random Surprise awaits! 
     """)
     st.markdown("---")
-    st.info("Made with ❤️ by Rahul the Savage 👸")
+    st.info("Made with ❤️ by Rahul ")
 
 # 🧠 Main Title
 st.title("💣 Roastify Me")
@@ -191,4 +191,5 @@ if st.session_state.roast_history:
 st.markdown("---")
 
 st.caption("Made with fire & love 🔥💖 by Rahul")
+
 
