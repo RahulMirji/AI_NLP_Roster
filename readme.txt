@@ -16,3 +16,4 @@ When we use TextBlob(text).sentiment.polarity, it returns a score between:
 | `< -0.1`      | Clearly negative    | Avoids overreacting to mild disappointment   |
 | `-0.1 to 0.3` | Neutral / uncertain | Covers vague, meh, in-between responses      |
 
+
